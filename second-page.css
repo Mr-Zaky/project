@@ -1,0 +1,263 @@
+.top {
+    position: absolute;
+    width: 59px;
+    height: 29px;
+    left: 139px;
+    top: 119px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+h3 {
+    position: absolute;
+    width: 93px;
+    height: 58px;
+    left: 139px;
+    top: 181px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Gray 1 */
+
+    color: #333333;
+
+}
+.one {
+    position: absolute;
+    width: 666px;
+    height: 43px;
+    left: 394px;
+    top: 198px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+.two {
+    position: absolute;
+    width: 506px;
+    height: 43px;
+    left: 394px;
+    top: 257px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+.three {
+    position: absolute;
+    width: 226px;
+    height: 43px;
+    left: 394px;
+    top: 316px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+.bottom {
+    position: absolute;
+    width: 68px;
+    height: 29px;
+    left: 139px;
+    top: 429px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+.first {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 139px;
+    top: 504px;
+
+    background: #FFFFFF;
+    border: 5px solid #EDEDED;
+    border-radius: 100px;
+}
+.second {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 215px;
+    top: 504px;
+
+    background: #000000;
+    border: 5px solid #FFFFFF;
+    border-radius: 100px;
+}
+.third {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 291px;
+    top: 504px;
+
+    background: #EE3D1B;
+    border: 5px solid #FFFFFF;
+    border-radius: 100px;
+}
+.fouth {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 367px;
+    top: 504px;
+
+    background: #D52047;
+    border: 5px solid #FFFFFF;
+    border-radius: 100px;
+}
+.color1 {
+    position: absolute;
+    width: 56px;
+    height: 17px;
+    left: 161px;
+    top: 630px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #EDEDED;
+
+}
+.color2 {
+    position: absolute;
+    width: 57px;
+    height: 17px;
+    left: 237px;
+    top: 630px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+.color3 {
+    position: absolute;
+    width: 61px;
+    height: 17px;
+    left: 311px;
+    top: 630px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #EE3D1B;
+
+}
+.color4 {
+    position: absolute;
+    width: 60px;
+    height: 17px;
+    left: 387px;
+    top: 630px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #D52047;
+
+}
